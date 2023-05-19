@@ -7,7 +7,7 @@ We investigate relativistic quantum mechanics (RQM) for particles with arbitrary
 ## authors
 Andrew Steinmetz, Martin Formanek, Johann Rafelski
 
-## Cite as
+## cite as
 Steinmetz, A., Formanek, M. & Rafelski, J. Magnetic dipole moment in relativistic quantum mechanics. Eur. Phys. J. A 55, 40 (2019).
 
 ## doi
