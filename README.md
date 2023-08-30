@@ -14,7 +14,7 @@ rel="me noopener noreferrer"
 style="vertical-align: top"><img
 src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
 style="width: 1em; margin-inline-start: 0.5em"
-alt="ORCID iD icon"/>Andrew Steinmetz</a>, <a
+alt="ORCID iD icon"/> Andrew Steinmetz</a>, <a
 id="cy-effective-orcid-url"
 class="underline"
 href="https://orcid.org/0000-0003-2704-6474"
@@ -23,7 +23,7 @@ rel="me noopener noreferrer"
 style="vertical-align: top"><img
 src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
 style="width: 1em; margin-inline-start: 0.5em"
-alt="ORCID iD icon"/>Martin Formanek</a>, and <a
+alt="ORCID iD icon"/> Martin Formanek</a>, and <a
 id="cy-effective-orcid-url"
 class="underline"
 href="https://orcid.org/0000-0001-8217-1484"
@@ -32,7 +32,7 @@ rel="me noopener noreferrer"
 style="vertical-align: top"><img
 src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
 style="width: 1em; margin-inline-start: 0.5em"
-alt="ORCID iD icon"/>Johann Rafelski</a>
+alt="ORCID iD icon"/> Johann Rafelski</a>
 
 ## cite as
 Steinmetz, A., Formanek, M. & Rafelski, J. Magnetic dipole moment in relativistic quantum mechanics. Eur. Phys. J. A 55, 40 (2019).
