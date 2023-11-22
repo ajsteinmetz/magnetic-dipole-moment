@@ -42,4 +42,6 @@ Steinmetz, A., Formanek, M. & Rafelski, J. Magnetic dipole moment in relativisti
 - https://arxiv.org/abs/1811.06233
 
 ## license
-Copyright (2019) by Springer Nature.
+Copyright © 2019 by Springer Nature.
+
+Reprinted with kind permission of The European Physical Journal (EPJ)
